@@ -1,2 +1,2 @@
 class Solution:
-    def 
+    def construct
